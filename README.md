@@ -13,6 +13,7 @@ Ich will dir helfen, auf die Schnelle pdf-Dateien zu manipulieren. Ich kann für
 * /compress
 * /clean
 * /ocr
+
 Eine vollständige Übersicht mit Erklärungen und Beispielen findest du auf der Projektseite.
 ## Alternativen
 ## Lizenz und Datenschutz
